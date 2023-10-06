@@ -1,0 +1,24 @@
+.chart-plot-background{
+    -fx-border-color: black;
+    -fx-border-width:3px;
+}
+.onHover{
+-fx-stroke-width:5px}
+
+
+.axis-tick-mark {
+    -fx-stroke: #637040;
+    -fx-stroke-width: 3;
+}
+.axis-minor-tick-mark {
+    -fx-stroke: #859656;
+}
+
+.chart-vertical-zero-line{
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0px;
+}
+.chart-horizontal-zero-line{
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0px;
+}
